@@ -1,5 +1,5 @@
-Metadata-Version: 2.1
-Name: upm
+Metadata-Version: 2.4
+Name: pyupm
 Version: 0.0.1
 Summary: A simple code for Uncertainty Projected Mapping
 Author-email: Anirban Chakraborty <anirban1990@gmail.com>, Srushti Rashmi Shirish <srushtirs@gmail.com>
@@ -9,6 +9,7 @@ Requires-Python: ==3.9.18
 Description-Content-Type: text/markdown
 License-File: LICENSE
 Requires-Dist: pymc==5.6.0
+Dynamic: license-file
 
 UPM-Spatial-Interpolation
 Python code and example data for Uncertainty Projected Mapping (UPM) as a spatial interpolation tool
